@@ -1,0 +1,3 @@
+a) El símbolo '-' indica que los atributos son privados, mientras que el símbolo '+' indica que los métodos son públicos.
+b) El tipo de dato de 'disponible' es 'bool' y puede tener dos valores: 'true' o 'false'.
+c) El método ToString() en una clase de C# sirve para devolver una representación en forma de cadena del objeto, generalmente para facilitar su lectura o depuración.
